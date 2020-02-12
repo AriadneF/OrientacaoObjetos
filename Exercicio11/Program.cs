@@ -43,7 +43,7 @@ namespace Exercicio11
             }
 
             Console.WriteLine();
-            Console.WriteLine("PRICE TAGS:");
+            Console.WriteLine("Etiqueta:");
             foreach (Produto prod in lista)
             {
                 Console.WriteLine(prod.Etiqueta());
